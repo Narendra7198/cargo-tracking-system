@@ -80,7 +80,7 @@ src/
 ```
 
 ## 🧑‍💻 Author
-Made with ❤️ by Nimish B
+Made with ❤️ by Narendra Singh
 
 
 
